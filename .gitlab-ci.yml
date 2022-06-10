@@ -1,0 +1,13 @@
+include:
+  - project: 'axopen/gitlabscripting'
+    ref: master
+    file: '/sonar/sonar-var.yml'
+
+variables:
+  LANGUAGE: "JS"
+
+stages:
+  - build
+  - test
+  - sonar
+
