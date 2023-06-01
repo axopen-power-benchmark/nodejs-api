@@ -1,4 +1,4 @@
-# Node API avec Express et Sequilize
+# Node API avec Express et Sequelize
 
 Ce projet fait partie de l'étude de la consommation énergétique des frameworks
 de développement en conditions réelles.
@@ -12,8 +12,8 @@ Pour compiler le projet les dépendances suivantes doivent être installé :
 node
 npm
 
-# Dans le dossie du projet
-npm install # Installe Express Sequilize et toutes les dépendances du projet
+# Dans le dossier du projet
+npm install # Installe Express Sequelize et toutes les dépendances du projet
 ```
 
 ## Développement
